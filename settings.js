@@ -4,14 +4,17 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Eliasar YT", true], ["593968585383"], ["5492266466080"], ["595986172767"], ["5492266613038"], ["5217294888993"], ["5214434703586"], ["5214437863111"], ["51906662557"], ["595992302861"], ["5217441298510"], ["5491155983299"], ["5493795319022"], ["5217821153974"], ["573012482597"]]
+global.owner = [["212690868748", "𓇣 🏵️ ⛧ 𝑶𝑷𝑨𝑴𝑨𝑺 ↯ 𝑴𝑿𝒁 ᰉ !🏵️ 
+𓇣", true], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"], ["212690868748"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐒𝐀𝐌𝐔𝐑𝐀𝐈-𝐁𝐎𝐓 🏵️"
-global.wm = '𝐒𝐀𝐌𝐔𝐑𝐀𝐈-𝐁𝐎𝐓 🏵️'
+global.botname = "𓇣 🏵️ ⛧ 𝑶𝑷𝑨𝑴𝑨𝑺 ↯ 𝑴𝑿𝒁 ᰉ !🏵️ 
+𓇣"
+global.wm = '𓇣 🏵️ ⛧ 𝑶𝑷𝑨𝑴𝑨𝑺 ↯ 𝑴𝑿𝒁 ᰉ !🏵️ 
+𓇣'
 global.vs = '1.0 (beta)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
@@ -71,23 +74,24 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐒𝐀𝐌𝐔𝐑𝐀𝐈-𝐁𝐎𝐓 🏵️"
+global.packname = "𓇣 🏵️ ⛧ 𝑶𝑷𝑨𝑴𝑨𝑺 ↯ 𝑴𝑿𝒁 ᰉ !🏵️ 
+𓇣"
 global.author = `${vs}`
 
- global.catalogo = "https://qu.ax/WlyB.jpg"
+ global.catalogo = "https://telegra.ph/file/df693283ff1b03a0d5c41.jpg"
  
  //-----[Estilo]------------
  global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -888888, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //---------[ IMAGEN ]---------
-global.img = "https://qu.ax/WlyB.jpg"
-global.img1 = 'https://qu.ax/WlyB.jpg'
-global.img2 = 'https://qu.ax/WlyB.jpg'
-global.vid1 = "https://telegra.ph/file/4e1a3ae13b9bf62466560.jpg"
+global.img = "https://telegra.ph/file/df693283ff1b03a0d5c41.jpg"
+global.img1 = 'https://telegra.ph/file/df693283ff1b03a0d5c41.jpg'
+global.img2 = 'https://telegra.ph/file/df693283ff1b03a0d5c41.jpg'
+global.vid1 = "https://telegra.ph/file/df693283ff1b03a0d5c41.jpg"
 
 global.imagen1 = "https://telegra.ph/file/18ef6770458bb6e8f34e2.jpg"
 global.imagen2 = "https://telegra.ph/file/c8167988aba0d9a51db70.jpg"
-global.imagen3 = "https://telegra.ph/file/5a3718c100e3dd9d57f3e.jpg"
+global.imagen3 = "https://telegra.ph/file/df693283ff1b03a0d5c41.jpg"
 global.noperfil = "https://telegra.ph/file/674ee87b21c831fd5fc6e.jpg"
 
 //---------[ ENLACES ]---------
